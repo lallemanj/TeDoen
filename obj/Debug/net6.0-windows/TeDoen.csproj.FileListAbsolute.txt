@@ -1,0 +1,17 @@
+C:\Users\Gebruiker\source\repos\TeDoen\bin\Debug\net6.0-windows\TeDoen.exe
+C:\Users\Gebruiker\source\repos\TeDoen\bin\Debug\net6.0-windows\TeDoen.deps.json
+C:\Users\Gebruiker\source\repos\TeDoen\bin\Debug\net6.0-windows\TeDoen.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\TeDoen\bin\Debug\net6.0-windows\TeDoen.dll
+C:\Users\Gebruiker\source\repos\TeDoen\bin\Debug\net6.0-windows\ref\TeDoen.dll
+C:\Users\Gebruiker\source\repos\TeDoen\bin\Debug\net6.0-windows\TeDoen.pdb
+C:\Users\Gebruiker\source\repos\TeDoen\obj\Debug\net6.0-windows\TeDoen.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\source\repos\TeDoen\obj\Debug\net6.0-windows\TeDoen.Form1.resources
+C:\Users\Gebruiker\source\repos\TeDoen\obj\Debug\net6.0-windows\TeDoen.csproj.GenerateResource.cache
+C:\Users\Gebruiker\source\repos\TeDoen\obj\Debug\net6.0-windows\TeDoen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\source\repos\TeDoen\obj\Debug\net6.0-windows\TeDoen.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\TeDoen\obj\Debug\net6.0-windows\TeDoen.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\TeDoen\obj\Debug\net6.0-windows\TeDoen.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\TeDoen\obj\Debug\net6.0-windows\TeDoen.dll
+C:\Users\Gebruiker\source\repos\TeDoen\obj\Debug\net6.0-windows\ref\TeDoen.dll
+C:\Users\Gebruiker\source\repos\TeDoen\obj\Debug\net6.0-windows\TeDoen.pdb
+C:\Users\Gebruiker\source\repos\TeDoen\obj\Debug\net6.0-windows\TeDoen.genruntimeconfig.cache
